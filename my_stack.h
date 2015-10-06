@@ -1,6 +1,3 @@
-#include <vector>
-#include <cassert>
-
 template<typename T>
 class my_stack{
 
